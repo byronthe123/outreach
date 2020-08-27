@@ -1,3 +1,4 @@
+<!-- useless crap -->
 <?php
 require '../vendor/phpmailer/PHPMailerAutoload.php';
 
